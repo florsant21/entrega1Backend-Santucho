@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "title": "Producto 1",
+    "description": "Descripción 1",
+    "code": "ABC123",
+    "price": 100,
+    "status": true,
+    "stock": 10,
+    "category": "Categoria 1",
+    "thumbnails": [
+      "ruta_imagen_1.jpg"
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Producto 2",
+    "description": "Descripción 2",
+    "code": "ABC124",
+    "price": 101,
+    "status": true,
+    "stock": 11,
+    "category": "Categoria 1",
+    "thumbnails": [
+      "ruta_imagen_2.jpg"
+    ]
+  }
+]
